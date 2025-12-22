@@ -4,11 +4,11 @@
     Total number of components does not exceed 19.  
     Including two types of components: SMD and DIP which are suitable for those who want to practice soldering of SMD components.  
 **2.Feature:**    
-*Built-in digital automatic gain control (AGC) circuit  
-*Support the global frequency band 76-108Mhz  
-*DIY manual welding  
-*Simple and easy to operate  
-*Support radio memory function  
+    1>.Built-in digital automatic gain control (AGC) circuit  
+    2>.Support the global frequency band 76-108MHz  
+    3>.DIY manual soldering  
+    4>.Simple and easy to operate  
+    5>.Support radio memory function  
  
 **3.Parameter:**    
     1>.Item name: FM Stereo Radio Module DIY Kit  
