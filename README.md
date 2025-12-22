@@ -1,8 +1,8 @@
-Product Details
-1.Introduction:
-    The YFM-2 type radio circuit is very simple.
-    Total number of components does not exceed 19.
-    Including two types of components: SMD and DIP which are suitable for friends who want to practice soldering of SMD components.
+Product Details  
+1.Introduction:  
+    The YFM-2 type radio circuit is very simple.  
+    Total number of components does not exceed 19.  
+    Including two types of components: SMD and DIP which are suitable for friends who want to practice soldering of SMD components.  
     
 ## SCH
 ![sch](https://github.com/user-attachments/assets/38f3ab67-0991-4c77-ae6e-bc044db8e684)
