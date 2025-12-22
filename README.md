@@ -22,9 +22,9 @@
     9>.Size(Installed):57*32*20mm  
  
 **4.Installation Tips:**   
-    1>.User needs to prepare the welding tool at first.  
+    1>.User needs to prepare the soldering tool at first.  
     2>.Please be patient until the installation is complete.  
-    3>.The package is DIY kit.It need finish install by user.  
+    3>.The package is DIY kit. It need finish install by user.  
     4>.The soldering iron can't touch the components for a long time(1.0 second), otherwise it will damage the components.  
     5>.Pay attention to the positive and negative of the components.  
     6>.Strictly prohibit short circuit.  
@@ -33,7 +33,7 @@
     9>.It is strongly recommended to read the installation manual before starting installation!  
  
 **5.Installation Steps(Please be patient):**     
-    Step 1: Install 1pcs SOP-16 RDA5807PF at U1.There is a dot on one corner of the IC and there is a rectangle pad on PCB where the Pin1 of IC can place on.These two marks are corresponding to each other and are used to specify the installation direction of the IC.  
+    Step 1: Install 1pcs SOP-16 RDA5807FP at U1.There is a dot on one corner of the IC and there is a rectangle pad on PCB where the Pin1 of IC can place on.These two marks are corresponding to each other and are used to specify the installation direction of the IC.  
     Step 2: Install 1pcs 30K ohm Resistor at R1.  
     Step 3: Install 1pcs 0.1uH Inductor at L1.  
     Step 4: Install 2pcs 1uH Inductor at L2,L3.  
@@ -44,9 +44,9 @@
     Step 9: Install 5pcs 6*6*5mm Switch at S1-S5.  
     Step 10: Install 1pcs 100uF 16V Electrolytic Capacitor at C4,C5. Please pay attention to the positive and negative poles. The shorter pin is the negative pole.  
     Step 11: Install 1pcs 3.5mm Audio Jack at J1.  
-    Step 12: Connect battery box.Pay attention to positive and negative.  
+    Step 12: Connect battery box.Pay attention to positive(+) and negative(-).  
     Step 13: Use a cable tie to fasten the battery box.  
-    Step 14: Connect to power supply and enjoy the effect.  
+    Step 14: Connect to power supply and enjoy the music.  
 ## SCH
 ![sch](https://github.com/user-attachments/assets/38f3ab67-0991-4c77-ae6e-bc044db8e684)
 ## BOM
