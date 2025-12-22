@@ -51,6 +51,8 @@
 ![sch](https://github.com/user-attachments/assets/38f3ab67-0991-4c77-ae6e-bc044db8e684)
 ## BOM
 ![bom](https://github.com/user-attachments/assets/549679a4-71cc-4eaa-9e5f-2b5bfc2b5ca3)
+## COMPONETS
+![Component List_FM Radio Kit GY18041 (3)](https://github.com/user-attachments/assets/4eda944a-19b0-49c2-bbe7-65f0c948f35b)
 
 ## TOP SIDE
 ![EQKIT_TOP](https://github.com/user-attachments/assets/370d4ba6-c8b4-4fd4-bc26-2372c3cd744e)
