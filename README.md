@@ -54,10 +54,10 @@
 ## COMPONETS
 ![Component List_FM Radio Kit GY18041 (3)](https://github.com/user-attachments/assets/4eda944a-19b0-49c2-bbe7-65f0c948f35b)
 
-## TOP SIDE
+## COMPONENT SIDE (56x30x1.6mm)
 ![EQKIT_TOP](https://github.com/user-attachments/assets/370d4ba6-c8b4-4fd4-bc26-2372c3cd744e)
 
-## SOLDER SIDE
+## SOLDER SIDE (56x30x1.6mm)
 ![EQKIT_bottom](https://github.com/user-attachments/assets/1a15fb47-3b55-4914-a9c6-bae0266cbe63)
 
 ## FINISHED
