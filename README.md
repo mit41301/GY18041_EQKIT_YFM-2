@@ -19,7 +19,7 @@
     6>.Output impedance:32ohm  
     7>.Work Temperature:-40℃~85℃  
     8>.Work Humidity:0%~95%RH  
-    9>.Size(Installed):57*32*20mm  
+    9>.Size(Installed):57x32x20mm  
  
 **4.Installation Tips:**   
     1>.User needs to prepare the soldering tool at first.  
