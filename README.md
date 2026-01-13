@@ -41,7 +41,7 @@
     Step 6: Install 1pcs 24pF Ceramic Capacitor at C1.  
     Step 7: Install 1pcs 0.01pF(103) Ceramic Capacitor at C2.  
     Step 8: Install 1pcs 0.022pF(223) Ceramic Capacitor at C3.  
-    Step 9: Install 5pcs 6*6*5mm Switch at S1-S5.  
+    Step 9: Install 5pcs 6x6x5mm Switch at S1-S5.  
     Step 10: Install 1pcs 100uF 16V Electrolytic Capacitor at C4,C5. Please pay attention to the positive and negative poles. The shorter pin is the negative pole.  
     Step 11: Install 1pcs 3.5mm Audio Jack at J1.  
     Step 12: Connect battery box.Pay attention to positive(+) and negative(-).  
